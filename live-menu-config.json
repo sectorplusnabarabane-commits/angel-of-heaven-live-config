@@ -1,7 +1,7 @@
 {
   "showTextsOnStart": true,
   "showMainGlobalText": true,
-  "commandTextMode": 2,
+  "commandTextMode": 3,
   "showButtonOnMainPC": true,
   "pcStatusText": "Конфиг загружен онлайн.",
 
