@@ -1,0 +1,34 @@
+{
+  "showTextsOnStart": true,
+  "showMainGlobalText": true,
+  "commandTextMode": 1,
+  "showButtonOnMainPC": true,
+  "pcStatusText": "Конфиг загружен онлайн.",
+
+  "globalMessage1": "ОНЛАЙН ТЕКСТ 1",
+  "globalMessage2": "ОНЛАЙН ТЕКСТ 2 RU",
+  "globalMessage2_en": "ONLINE TEXT 2 EN",
+  "globalMessage2_uk": "ОНЛАЙН ТЕКСТ 2 UK",
+  "globalMessage2_pl": "ONLINE TEXT 2 PL",
+  "globalMessage2_fr": "ONLINE TEXT 2 FR",
+  "globalMessage2_de": "ONLINE TEXT 2 DE",
+  "globalMessage2_it": "ONLINE TEXT 2 IT",
+  "globalMessage2_es": "ONLINE TEXT 2 ES",
+  "globalMessage2_tr": "ONLINE TEXT 2 TR",
+  "globalMessage2_zh": "ONLINE TEXT 2 ZH",
+
+  "globalMessage3": "ОНЛАЙН ТЕКСТ 3 RU",
+  "globalMessage3_en": "ONLINE TEXT 3 EN",
+  "globalMessage3_uk": "ОНЛАЙН ТЕКСТ 3 UK",
+  "globalMessage3_pl": "ONLINE TEXT 3 PL",
+  "globalMessage3_fr": "ONLINE TEXT 3 FR",
+  "globalMessage3_de": "ONLINE TEXT 3 DE",
+  "globalMessage3_it": "ONLINE TEXT 3 IT",
+  "globalMessage3_es": "ONLINE TEXT 3 ES",
+  "globalMessage3_tr": "ONLINE TEXT 3 TR",
+  "globalMessage3_zh": "ONLINE TEXT 3 ZH",
+
+  "globalText1DefaultColor": { "r": 1.0, "g": 1.0, "b": 1.0, "a": 1.0 },
+  "globalText1WhenText2Color": { "r": 1.0, "g": 0.75, "b": 0.0, "a": 1.0 },
+  "globalText1WhenText3Color": { "r": 0.0, "g": 1.0, "b": 0.0, "a": 1.0 }
+}
