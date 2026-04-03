@@ -1,7 +1,7 @@
 {
   "showTextsOnStart": true,
   "showMainGlobalText": true,
-  "commandTextMode": 3,
+  "commandTextMode": 2,
   "showButtonOnMainPC": true,
 
   "pcStatusText": "Обновления",
