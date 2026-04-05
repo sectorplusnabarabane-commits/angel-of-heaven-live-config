@@ -4,6 +4,12 @@
   "commandTextMode": 2,
   "showButtonOnMainPC": true,
 
+  "overrideForceMode2IfEqualsGlobalMessage1Text": true,
+  "forceMode2IfEqualsGlobalMessage1Text": "",
+
+  "overrideAutoShowText2WhenInstalledVersionMatchesGlobalMessage1": true,
+  "autoShowText2WhenInstalledVersionMatchesGlobalMessage1": false,
+
   "pcStatusText": "Обновления",
   "pcStatusText_en": "Updates",
   "pcStatusText_uk": "Оновлення",
@@ -14,7 +20,7 @@
   "pcStatusText_es": "Actualizaciones",
   "pcStatusText_tr": "Güncellemeler",
   "pcStatusText_zh": "更新",
-  
+
   "globalMessage1": "1.0.388",
   "globalMessage2": "текущая версия игры:",
   "globalMessage2_en": "current version of the game:",
